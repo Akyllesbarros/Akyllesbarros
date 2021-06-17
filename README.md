@@ -1,4 +1,4 @@
-## Olá! Seja bem vindo, a casa é sua! ☕ 
+## Olá! Seja bem vindo, pegue um café! ☕ 
  
 <div>
   <a href="https://github.com/Akyllesbarros">
@@ -9,8 +9,7 @@
   <img align="center" height="40" width='40' src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/python/python.png">
   <img align=right src='https://media.tenor.com/images/73b121d0abbc19c03d09cdc7a2ef5da4/tenor.gif' width='200px'></img>
 </div>
- <br>
- 
+
    ##
  
 <div  align="center"> 
