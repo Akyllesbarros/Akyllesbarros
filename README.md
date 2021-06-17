@@ -1,4 +1,4 @@
-Olá! Seja bem vindo ao mundo do Akylles, a casa é sua! 
+Olá! Seja bem vindo ao mundo do Akylles, a casa é sua! ☕ 
  
 <div>
   <a href="https://github.com/Akyllesbarros">
@@ -6,9 +6,7 @@ Olá! Seja bem vindo ao mundo do Akylles, a casa é sua!
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorprati&langs_count=16&theme=gotham"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" height="40" width='40' src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
-  <img align="center" height="40" width='40' src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
-  <img align="center" height="40" width='40' src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
+
   <img align="center" height="40" width='40' src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/python/python.png">
   <img align=right src='https://media.tenor.com/images/73b121d0abbc19c03d09cdc7a2ef5da4/tenor.gif' width='200px'></img>
 </div>
