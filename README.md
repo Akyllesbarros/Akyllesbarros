@@ -3,7 +3,7 @@ Olá! Seja bem vindo, a casa é sua! ☕
 <div>
   <a href="https://github.com/Akyllesbarros">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Akyllesbarros&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorprati&langs_count=16&theme=gotham"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akyllesbarros&langs_count=16&theme=gotham"/>
 </div>
 <div style="display: inline_block"><br>
 
