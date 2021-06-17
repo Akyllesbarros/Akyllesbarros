@@ -1,4 +1,4 @@
-Olá! Seja bem vindo ao mundo do Akylles, a casa é sua! ☕ 
+Olá! Seja bem vindo, a casa é sua! ☕ 
  
 <div>
   <a href="https://github.com/Akyllesbarros">
